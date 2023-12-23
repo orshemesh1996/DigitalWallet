@@ -36,3 +36,5 @@ To set up each service, navigate to its respective directory (e.g., gateway, gro
 and execute the following commands sequentially: npm install followed by npm start.
 This will install dependencies and start each microservice, allowing for the smooth operation of the entire project.
 
+add .env to the user folder: https://drive.google.com/file/d/1-kt6khNa3JivNLYwGKJc9USRM-zYNkQW/view?usp=sharing
+
