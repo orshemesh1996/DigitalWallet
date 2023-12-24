@@ -13,7 +13,7 @@ This microservice plays a crucial role in managing and tracking shared finances 
 
 User:
 The User microservice is responsible for managing individual users.
-Here, users can approve money transfer requests, create new requests, and more. Key user-related fields include name, email, phone, transactionHistoryId,pending RequestId ,groupAccount, and id.
+Here, users can approve money transfer requests, create new requests, and more. Key user-related fields include name, email, phone, transactionHistoryId,Request pendingId,groupAccount, and id.
 
 
 Request Pending:
