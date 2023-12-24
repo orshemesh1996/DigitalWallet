@@ -107,6 +107,7 @@ module.exports = {
     axios
       .post(url, dataToSend)
       .then((response) => {
+        //sendNotification() : Here you can send an SMS message to the user receiving the request
         res.status(200).json({
           message: "The transfer request has been made",
         });
